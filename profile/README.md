@@ -1,6 +1,6 @@
 ## UnBnB
 
-This organization criated by [@HenrikhKenino](https://github.com/HenrikhKenino) has the purpose of showing the projects elaborated personaly or in groups during the software engineering course at UnB/FGA.
+This organization criated by [@Henriquecq](https://github.com/henriquecq) has the purpose of showing the projects elaborated personaly or in groups during the software engineering course at UnB/FGA.
 
 <!--
 
